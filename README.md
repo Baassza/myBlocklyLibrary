@@ -46,9 +46,11 @@ watch video: https://youtu.be/oDgi1ymIoHs
 
 
 แตกไฟล์ที่ดาวน์โหลดมาได้แล้วคัดลอกลงตำแหน่งที่ติดตั้ง
+
 ![https://www.arduino.cc/en/uploads/Guide/Lib_ZIP_2.jpg](https://www.arduino.cc/en/uploads/Guide/Lib_ZIP_2.jpg)
 
 ก็จะพบไลบรารีที่ติดตั้ง
+
 ![https://www.arduino.cc/en/uploads/Guide/Lib_ZIP_4.jpg](https://www.arduino.cc/en/uploads/Guide/Lib_ZIP_4.jpg)
 
 เพิ่มเติม : https://www.arduino.cc/en/guide/libraries
