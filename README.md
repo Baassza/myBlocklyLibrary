@@ -26,6 +26,7 @@ Start the Arduino Software (IDE), go to Sketch > Include Library. Verify that th
 ![https://www.arduino.cc/en/uploads/Guide/Lib_ZIP_4.jpg](https://www.arduino.cc/en/uploads/Guide/Lib_ZIP_4.jpg)
 
 Read more : https://www.arduino.cc/en/guide/libraries
+
 watch video: https://youtu.be/oDgi1ymIoHs
 
 
@@ -51,4 +52,5 @@ watch video: https://youtu.be/oDgi1ymIoHs
 ![https://www.arduino.cc/en/uploads/Guide/Lib_ZIP_4.jpg](https://www.arduino.cc/en/uploads/Guide/Lib_ZIP_4.jpg)
 
 เพิ่มเติม : https://www.arduino.cc/en/guide/libraries
-ดูวิด๊โอสอนติดตั้ง: https://youtu.be/oDgi1ymIoHs
+
+ดูวิดีโอสอนติดตั้ง: https://youtu.be/oDgi1ymIoHs
