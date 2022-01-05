@@ -1,4 +1,4 @@
-void Motor_forward(int PWMpin, int DIRpin int S) {
+void Motor_forward(int PWMpin, int DIRpin ,int S) {
   pinMode(PWMpin, OUTPUT);
   pinMode(DIRpin, OUTPUT);
   int Pspeed = map(S, 0, 100, 0, 255);
