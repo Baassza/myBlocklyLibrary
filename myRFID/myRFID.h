@@ -8,7 +8,7 @@ MFRC522 rfid(SS_PIN, RST_PIN);
 MFRC522::MIFARE_Key key;
 
 
-String ReadRFID() {
+String RFIDRead() {
   SPI.begin();
   rfid.PCD_Init();
   if (!rfid.PICC_IsNewCardPresent() || !rfid.PICC_ReadCardSerial()) {
